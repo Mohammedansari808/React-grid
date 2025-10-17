@@ -16,9 +16,7 @@ body {
   background: linear-gradient(rgb(37, 57, 208), rgb(136, 22, 186));;
 }
 
-.app {
-  max-width: 1200px;
-}
+
 
 .toolbar {
   display: flex;
